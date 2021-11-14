@@ -8,6 +8,7 @@ authors = ["AbrarAlzubaidi <abraralzobaide98@gmail.com>"]
 python = "^3.9"
 matplotlib = "^3.4.3"
 jupyterlab = "^3.2.3"
+ipykernel = "^6.5.0"
 
 [tool.poetry.dev-dependencies]
 
